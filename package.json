@@ -1,0 +1,14 @@
+{
+  "name": "copilot-wrapper",
+  "version": "1.0.0",
+  "description": "Node.js WebSocket wrapper for Copilot chat",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "server": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
